@@ -4,7 +4,9 @@
 #### 🖌️ I have experience with `Inkscape`, `UI/UX` and `Color Theory & Psychology`.
 #### ⭐ I founded a small community start-up called `Myan Digital`.
 
-### ✨ Fun Facts ✨
+---
+
+✨ Fun Facts ✨
 - I usually text in English 'cuz I feel more comfortable typing it, not to show off.
 - I like matcha tea in various forms.
 - I love cats.
