@@ -1,4 +1,4 @@
-#### 💻 Currently being a web development ninja with `Next.js`, `React.js` and `JavaScript`.
+#### 💻 Currently a web development ninja with `Next.js`, `React.js` and `JavaScript`.
 #### 🔍 Find me on [Codewars](https://www.codewars.com/users/Takao21) / [Facebook](https://www.facebook.com/joichiro.takao/).
 #### 📖 I am familiar with `Functional Programming` and `SOLID Principles`.
 #### 🎓 I know a tiny bit of `TypeScript`, `AngularJS`, `NodeJS`, `C++`, `C#` and `Unity Game Development`.
