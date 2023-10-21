@@ -1,4 +1,4 @@
-#### A cat doing whatever the heck he wants.
+# A cat who is doing whatever the heck he wants.
 ⣿⣿⣿⡐⠂⠓⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣎⡀⠀⠀⢀⣀⣠⡄  
 ⣿⣿⣿⣷⠀⠀⠁⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣙⢁⢀⡴⡫⠁⠀⢹  
 ⣿⣿⣿⡇⠀⠀⠀⠀⢎⢻⣿⣿⣿⣿⣿⣿⡀⠉⠃⠉⢿⠛⢻⢴⡵⠃⠀⠀⠀⢸  
